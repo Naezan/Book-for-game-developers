@@ -62,7 +62,7 @@
 
 ### Game Rendering
 
-* [Real-Time Rendering 절판](http://www.yes24.com/Product/Goods/408701) : 외서(http://www.yes24.com/Product/Goods/59492322)
+* [Real-Time Rendering](http://www.yes24.com/Product/Goods/408701) : 절판, 외서(http://www.yes24.com/Product/Goods/59492322)
 
 ### Game Collision
 
@@ -74,4 +74,4 @@
 
 ### Game Algorithms
 
-* [게임 매니악스 탄막 게임 알고리즘 절판](http://www.yes24.com/Product/Goods/12041761)
+* [게임 매니악스 탄막 게임 알고리즘](http://www.yes24.com/Product/Goods/12041761) : 절판
