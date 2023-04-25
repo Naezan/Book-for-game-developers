@@ -67,7 +67,7 @@
 
 ### Game Collision
 
-* [Real-Time Collision Detection](http://www.yes24.com/Product/Goods/1701880) : https://realtimecollisiondetection.net/
+* [Real-Time Collision Detection](http://www.yes24.com/Product/Goods/1701880) : 관련 문서(https://realtimecollisiondetection.net/)
 
 ### Game Mathematics
 
