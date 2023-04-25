@@ -26,7 +26,7 @@
 
 * [C++ Primer](http://www.yes24.com/Product/Goods/9124193)
 * [Effective C++](http://www.yes24.com/Product/Goods/17525589)
-* [The C++ Programming Language](The C++ Programming Language 한국어판)
+* [The C++ Programming Language 한국어판](http://www.yes24.com/Product/Goods/23441719)
 
 ### Rust
 
