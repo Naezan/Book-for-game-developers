@@ -63,6 +63,7 @@
 ### Game Rendering
 
 * [Real-Time Rendering](http://www.yes24.com/Product/Goods/408701) : 절판, 외서(http://www.yes24.com/Product/Goods/59492322)
+* [레이 트레이싱](https://www.yes24.com/Product/Goods/101757772)
 
 ### Game Collision
 
