@@ -1,6 +1,6 @@
 # Book for game developers
 
-제가 읽을 또는 읽은 책들의 모음입니다.
+제가 읽을 또는 읽은 책들의 모음입니다. 양식은 [pr0gr4m](https://github.com/pr0gr4m)님의 양식을 가져왔습니다!
 
 ## Contents
 
