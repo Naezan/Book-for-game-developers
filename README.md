@@ -4,7 +4,6 @@
 
 ## Contents
 
-- [Prerequisite](#prerequisite)
 - [Language](#Language)
   * [C++](#C++)
   * [Rust](#Rust)
